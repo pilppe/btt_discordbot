@@ -1,0 +1,23 @@
+{
+  "name": "btt_discordbot",
+  "version": "1.0.0",
+  "description": "Discord bot for Blacktop Trucking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pilppe/btt_discordbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pilppe/btt_discordbot/issues"
+  },
+  "homepage": "https://github.com/pilppe/btt_discordbot#readme",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
